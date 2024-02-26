@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name Viacheslav. I'm a PHP developer.
+My name is Viacheslav. I'm a PHP developer.
 - 🔭 I’m currently working on something cool 😉
 - 📫 How to reach me email: 872122@mail.ru
 ![Image alt](https://github.com/in8estor/in8estor/blob/main/snake.svg)
