@@ -21,10 +21,14 @@ I am constantly developing, learning new technologies to strengthen my skills an
 
 ### Project
 
-* [Task manager](https://github.com/asd1xx/task-manager) - a program for managing tasks. There are users in the system, each of whom can create, view, update and delete their own tasks. The system supports viewing a list of all user tasks, creating a new task, viewing information about the task, editing the task, deleting the task, changing the status of the task.
-* [Brain Games](https://github.com/asd1xx/php-project-45) - a set of five console games based on the principle of popular mobile brain-boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.
-* [Difference Calculator](https://github.com/asd1xx/php-project-48) - a program that defines the difference between two data structures. This is a popular task, for which there are many online services, for example: https://www.jsondiff.com/. A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.
-* [Exchange](https://github.com/asd1xx/0004_Exchange) - I'm currently working on a project to share things between users. I use the Symfony framework.
+* [Task manager](https://github.com/asd1xx/task-manager) - a program for managing tasks. There are users in the system, each of whom can create, view, update and delete their own tasks. The system supports viewing a list of all user tasks, creating a new task, viewing information about the task, editing the task, deleting the task, changing the status of the task.  
+  *Stack: PHP, Git, Composer, Docker, Symfony, MySQL, Nginx, CodeClimate.*
+* [Brain Games](https://github.com/asd1xx/php-project-45) - a set of five console games based on the principle of popular mobile brain-boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.  
+  *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
+* [Difference Calculator](https://github.com/asd1xx/php-project-48) - a program that defines the difference between two data structures. This is a popular task, for which there are many online services, for example: https://www.jsondiff.com/. A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.  
+  *Stack: PHP, Git, Composer, Github Actions, CodeClimate, Docopt.*
+* [Exchange](https://github.com/asd1xx/0004_Exchange) - I'm currently working on a project to share things between users. I use the Symfony framework.  
+  *Stack: PHP, Git, Composer, Docker, Symfony, PostgreSQL, Nginx.*
 
 ### Socials
 
