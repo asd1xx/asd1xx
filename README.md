@@ -6,7 +6,8 @@ PHP - developer 💎
 ------------------
 
 I am constantly developing, learning new technologies to strengthen my skills and gain new knowledge.  
-👨‍🎓 Education: IT specialty - Automated Information Processing and Management Systems.
+👨‍🎓 Education: IT specialty - Automated Information Processing and Management Systems.  
+📋 [My resume](https://cv.hexlet.io/ru/resumes/6663)
 
 * 🌍  I'm based in Sochi
 * 🚀  I'm currently working on a project [Exchange](https://github.com/asd1xx/0004_Exchange)
