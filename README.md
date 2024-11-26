@@ -22,7 +22,7 @@ I am constantly developing, learning new technologies to strengthen my skills an
 
 ### Project
 
-* [Task manager](https://github.com/asd1xx/task-manager) - a program for managing tasks. There are users in the system, each of whom can create, view, update and delete their own tasks. The system supports viewing a list of all user tasks, creating a new task, viewing information about the task, editing the task, deleting the task, changing the status of the task.  
+* [Task Manager](https://github.com/asd1xx/task-manager) - a program for managing tasks. There are users in the system, each of whom can create, view, update and delete their own tasks. The system supports viewing a list of all user tasks, creating a new task, viewing information about the task, editing the task, deleting the task, changing the status of the task.  
   *Stack: PHP, Git, Composer, Docker, Symfony, MySQL, Nginx, CodeClimate.*
 * [CRUD on the Slim framework](https://github.com/asd1xx/hexlet-slim-example) - the system supports the following actions: view a list of all users, creating a user, viewing user information, editing a user, deleting a user.  
   *Stack: PHP, Git, Composer, Slim, CodeClimate.*
@@ -30,7 +30,7 @@ I am constantly developing, learning new technologies to strengthen my skills an
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
 * [Difference Calculator](https://github.com/asd1xx/php-project-48) - a program that defines the difference between two data structures. This is a popular task, for which there are many online services, for example: [JSON Diff](https://www.jsondiff.com/). A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.  
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate, Docopt.*
-* [Page analyzer](https://github.com/asd1xx/php-project-9) - this is a site that analyzes the specified pages for SEO suitability, similar to [PageSpeed Insights](https://pagespeed.web.dev/). The page Analyzer is a full-fledged application based on the Slim framework. Here, the basic principles of building modern websites on the MVC architecture are worked out: working with routing, query handlers and a template engine, interacting with a database.  
+* [Page Analyzer](https://github.com/asd1xx/php-project-9) - this is a site that analyzes the specified pages for SEO suitability, similar to [PageSpeed Insights](https://pagespeed.web.dev/). The page Analyzer is a full-fledged application based on the Slim framework. Here, the basic principles of building modern websites on the MVC architecture are worked out: working with routing, query handlers and a template engine, interacting with a database.  
   *Stack: PHP, Git, Composer, Slim, PostgreSQL, Bootstrap, Github Actions, CodeClimate.*
 * [Exchange](https://github.com/asd1xx/0004_Exchange) - I'm currently working on a project to share things between users. I use the Symfony framework.  
   *Stack: PHP, Git, Composer, Docker, Symfony, PostgreSQL, Nginx.*
