@@ -22,16 +22,20 @@ I am constantly developing, learning new technologies to strengthen my skills an
 
 ### Project
 
-* [Task Manager](https://github.com/asd1xx/task-manager) - a program for managing tasks. There are users in the system, each of whom can create, view, update and delete their own tasks. The system supports viewing a list of all user tasks, creating a new task, viewing information about the task, editing the task, deleting the task, changing the status of the task.  
-  *Stack: PHP, Git, Composer, Docker, Symfony, MySQL, Nginx, CodeClimate.*
-* [CRUD on the Slim framework](https://github.com/asd1xx/hexlet-slim-example) - the system supports the following actions: view a list of all users, creating a user, viewing user information, editing a user, deleting a user.  
-  *Stack: PHP, Git, Composer, Slim, CodeClimate.*
-* [Brain Games](https://github.com/asd1xx/php-project-45) - a set of five console games based on the principle of popular mobile brain-boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.  
-  *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
-* [Difference Calculator](https://github.com/asd1xx/php-project-48) - a program that defines the difference between two data structures. This is a popular task, for which there are many online services, for example: [JSON Diff](https://www.jsondiff.com/). A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.  
-  *Stack: PHP, Git, Composer, Github Actions, CodeClimate, Docopt.*
+* [Task Manager](https://github.com/asd1xx/php-project-57) - a task management system similar to to [Redmine](https://www.redmine.org/). It allows you to set tasks, assign performers and change their statuses. To work with the system, registration and authentication are required.  
+  *Stack: PHP, Git, Composer, Docker, Laravel, PostgreSQL, Bootstrap, Github Actions, CodeClimate.*
 * [Page Analyzer](https://github.com/asd1xx/php-project-9) - this is a site that analyzes the specified pages for SEO suitability, similar to [PageSpeed Insights](https://pagespeed.web.dev/). The page Analyzer is a full-fledged application based on the Slim framework. Here, the basic principles of building modern websites on the MVC architecture are worked out: working with routing, query handlers and a template engine, interacting with a database.  
   *Stack: PHP, Git, Composer, Slim, PostgreSQL, Bootstrap, Github Actions, CodeClimate.*
+* [Telegram Bot E-Wallet](https://github.com/asd1xx/bothub-test) - the bot will help you keep track of your electronic money.  
+  *Stack: PHP, Git, Composer, PostgreSQL, Ngrok API Gateway.*
+* [Product Catalog](https://github.com/asd1xx/products) - Micro-framework (MVC), consisting of a Core (Application), a Router (Router), a Controller (Controller) and a Model (ModelInterface). Any visitor to the site can create his own temporary directory (storage time = session lifetime). Products are stored in a session. Site structure: list of products, product creation, removing a product.  
+  *Stack: PHP, Git, Composer.*
+* [CRUD on the Slim framework](https://github.com/asd1xx/hexlet-slim-example) - the system supports the following actions: view a list of all users, creating a user, viewing user information, editing a user, deleting a user.  
+  *Stack: PHP, Git, Composer, Slim, CodeClimate.*
+* [Difference Calculator](https://github.com/asd1xx/php-project-48) - a program that defines the difference between two data structures. This is a popular task, for which there are many online services, for example: [JSON Diff](https://www.jsondiff.com/). A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.  
+  *Stack: PHP, Git, Composer, Github Actions, CodeClimate, Docopt.*
+* [Brain Games](https://github.com/asd1xx/php-project-45) - a set of five console games based on the principle of popular mobile brain-boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.  
+  *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
 * [Exchange](https://github.com/asd1xx/0004_Exchange) - I'm currently working on a project to share things between users. I use the Symfony framework.  
   *Stack: PHP, Git, Composer, Docker, Symfony, PostgreSQL, Nginx.*
 
