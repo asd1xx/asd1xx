@@ -16,7 +16,7 @@ I am constantly developing, learning new technologies to strengthen my skills an
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,php,vscode,html,css,bootstrap,mysql,postgres,postman,laravel,symfony,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,postman,docker,html,css,bootstrap,git,github,gitlab,vscode,linux)](https://skillicons.dev)
 
 ### Project
 
