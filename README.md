@@ -11,7 +11,7 @@ I am constantly developing, learning new technologies to strengthen my skills an
 📋 [Resume on Hexlet CV](https://cv.hexlet.io/ru/resumes/6663)
 
 * 🌍  I'm based in Sochi
-* 🚀  I'm currently working on a project [Exchange](https://github.com/asd1xx/0004_Exchange)
+* 🚀  I'm currently working on a project [Exchange REST API](https://github.com/asd1xx/exchange-rest-api)
 * ✉️  You can contact me at [Telegram](http://t.me/vevongo) or email [872122@mail.ru](mailto:872122@mail.ru)
 
 ### Skills
@@ -34,8 +34,8 @@ I am constantly developing, learning new technologies to strengthen my skills an
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate, Docopt.*
 * [Brain Games](https://github.com/asd1xx/php-project-45) - a set of five console games based on the principle of popular mobile brain-boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.  
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
-* [Exchange](https://github.com/asd1xx/0004_Exchange) - I'm currently working on a project to share things between users. I use the Symfony framework.  
-  *Stack: PHP, Git, Composer, Docker, Symfony, PostgreSQL, Nginx.*
+* [Exchange REST API](https://github.com/asd1xx/exchange-rest-api) - I'm currently working on a project to share things between users. I use the Laravel framework.  
+  *Stack: PHP, Git, Composer, Docker, Laravel, PostgreSQL, Nginx.*
 
 ### Socials
 
