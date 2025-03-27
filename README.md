@@ -11,7 +11,7 @@ I am constantly developing, learning new technologies to strengthen my skills an
 📋 [Resume on Hexlet CV](https://cv.hexlet.io/ru/resumes/6663)
 
 * 🌍  I'm based in Sochi
-* 🚀  I'm currently working on a project [Exchange REST API](https://github.com/asd1xx/exchange-rest-api)
+* 🚀  I'm currently working on a project [Task Manager REST API](https://github.com/asd1xx/task-manager-rest-api)
 * ✉️  You can contact me at [Telegram](http://t.me/vevongo) or email [872122@mail.ru](mailto:872122@mail.ru)
 
 ### Skills
