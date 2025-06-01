@@ -6,11 +6,9 @@ PHP - developer 💎
 ------------------
 
 I am constantly developing, learning new technologies to strengthen my skills and gain new knowledge.  
-👨‍🎓 Education: IT specialty - Automated Information Processing and Management Systems.  
-📋 [Resume on HeadHunter](https://sochi.hh.ru/resume/69522c79ff0c87b3130039ed1f705564437169)  
-📋 [Resume on Hexlet CV](https://cv.hexlet.io/ru/resumes/6663)
+Education: IT specialty - Automated Information Processing and Management Systems.  
 
-* 🌍  I'm based in Sochi
+* 🌍  I'm based in Moscow
 * 🚀  I'm currently working on a project [Task Manager REST API](https://github.com/asd1xx/task-manager-rest-api)
 * ✉️  You can contact me at [Telegram](http://t.me/vevongo) or email [872122@mail.ru](mailto:872122@mail.ru)
 
