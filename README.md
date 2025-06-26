@@ -16,7 +16,7 @@ Education: IT specialty - Automated Information Processing and Management System
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,postman,docker,html,css,bootstrap,git,github,gitlab,vscode,linux)](https://skillicons.dev)
 
-### Project
+### Projects
 
 * [Task Manager](https://github.com/asd1xx/php-project-57) - a task management system similar to to [Redmine](https://www.redmine.org/). It allows you to set tasks, assign performers and change their statuses. To work with the system, registration and authentication are required.  
   *Stack: PHP, Git, Composer, Docker, Laravel, PostgreSQL, Bootstrap, Github Actions, CodeClimate.*
