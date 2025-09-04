@@ -9,8 +9,8 @@ I am constantly developing, learning new technologies to strengthen my skills an
 Education: IT specialty - Automated Information Processing and Management Systems.  
 
 * 🌍  I'm based in Moscow
-<!--* 🚀  I'm currently working on a project [Task Manager REST API](https://github.com/asd1xx/task-manager-rest-api)-->
 * ✉️  You can contact me at [Telegram](http://t.me/vevongo) or email [872122@mail.ru](mailto:872122@mail.ru)
+<!--* 🚀  I'm currently working on a project [Task Manager REST API](https://github.com/asd1xx/task-manager-rest-api)-->
 
 ### Skills
 
@@ -34,8 +34,8 @@ Education: IT specialty - Automated Information Processing and Management System
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
 * [Exchange REST API](https://github.com/asd1xx/exchange-rest-api) - I'm currently working on a project to share things between users. I use the Laravel framework.  
   *Stack: PHP, Git, Composer, Docker, Laravel, PostgreSQL, Nginx.*
--->
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/asd1xx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
+-->
