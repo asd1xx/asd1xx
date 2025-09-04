@@ -15,7 +15,7 @@ Education: IT specialty - Automated Information Processing and Management System
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,postman,docker,html,css,bootstrap,git,github,gitlab,vscode,linux)](https://skillicons.dev)
-
+<!--
 ### Projects
 
 * [Task Manager](https://github.com/asd1xx/php-project-57) - a task management system similar to to [Redmine](https://www.redmine.org/). It allows you to set tasks, assign performers and change their statuses. To work with the system, registration and authentication are required.  
@@ -38,3 +38,4 @@ Education: IT specialty - Automated Information Processing and Management System
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/asd1xx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+-->
