@@ -9,7 +9,7 @@ I am constantly developing, learning new technologies to strengthen my skills an
 Education: IT specialty - Automated Information Processing and Management Systems.  
 
 * 🌍  I'm based in Moscow
-* 🚀  I'm currently working on a project [Task Manager REST API](https://github.com/asd1xx/task-manager-rest-api)
+<!--* 🚀  I'm currently working on a project [Task Manager REST API](https://github.com/asd1xx/task-manager-rest-api)-->
 * ✉️  You can contact me at [Telegram](http://t.me/vevongo) or email [872122@mail.ru](mailto:872122@mail.ru)
 
 ### Skills
