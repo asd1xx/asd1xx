@@ -6,6 +6,7 @@ PHP - developer 💎
 ------------------
 
 I am constantly developing, learning new technologies to strengthen my skills and gain new knowledge.  
+
 Education. IT specialty:  
 - Development, maintenance, and security of information systems.  
 - Automated Information Processing and Management Systems.  
