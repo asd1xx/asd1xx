@@ -7,8 +7,8 @@ PHP - developer 💎
 
 I am constantly developing, learning new technologies to strengthen my skills and gain new knowledge.  
 Education. IT specialty:  
-    1) Development, maintenance, and security of information systems.  
-    2) Automated Information Processing and Management Systems.  
+- Development, maintenance, and security of information systems.  
+- Automated Information Processing and Management Systems.  
 
 * 🌍  I'm based in Moscow
 <!--* ✉️  You can contact me at [Telegram](http://t.me/vevongo) or email [872122@mail.ru](mailto:872122@mail.ru)-->
